@@ -5,12 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ece47141-d252-4bb1-bfaa-45b912168da0" name="Changes" comment="u">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KoyaLoading.iml" beforeDir="false" afterPath="$PROJECT_DIR$/KoyaLoading.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ir/alireza009/koyaLoading/KoyaLoading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/alireza009/koyaLoading/KoyaLoading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ir/alireza009/koyaLoading/task/LoadingTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/alireza009/koyaLoading/task/LoadingTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/KoyaLoading-1.0.2-shaded.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/KoyaLoading-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/KoyaLoading.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/KoyaLoading.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/Metrics$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/Metrics$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/Metrics$AdvancedBarChart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/Metrics$AdvancedBarChart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/Metrics$AdvancedPie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/Metrics$AdvancedPie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/Metrics$CustomChart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/Metrics$CustomChart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/Metrics$DrilldownPie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/Metrics$DrilldownPie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/Metrics$JsonObjectBuilder$JsonObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/Metrics$JsonObjectBuilder$JsonObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/Metrics$JsonObjectBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/Metrics$JsonObjectBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/Metrics$MetricsBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/Metrics$MetricsBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/Metrics$MultiLineChart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/Metrics$MultiLineChart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/Metrics$SimpleBarChart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/Metrics$SimpleBarChart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/Metrics$SimplePie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/Metrics$SimplePie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/Metrics$SingleLineChart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/Metrics$SingleLineChart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/Metrics.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/Metrics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/listener/PlayerJoinListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/listener/PlayerJoinListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/listener/PlayerMoveListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/listener/PlayerMoveListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/listener/PlayerQuitListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/listener/PlayerQuitListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/storage/Storage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/storage/Storage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/task/LoadingTask$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/task/LoadingTask$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/task/LoadingTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/alireza009/koyaLoading/task/LoadingTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-KoyaLoading-1.0.2.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,23 +73,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.KoyaLoading [clean].executor": "Run",
-    "Maven.KoyaLoading [install].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Z - Spigot Plugins/KoyaRobbery/KoyaRobbery",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.42068964",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.KoyaLoading [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.KoyaLoading [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Z - Spigot Plugins/KoyaRobbery/KoyaRobbery&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.42068964&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   },
-  "keyToStringList": {
-    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": []
+  &quot;keyToStringList&quot;: {
+    &quot;stardust.markdown.MarkdownSplitEditorSuppressor:keyList&quot;: []
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Z - Spigot Plugins\KoyaLoading\KoyaLoading\src\main\java\ir\alireza009\koyaLoading" />
