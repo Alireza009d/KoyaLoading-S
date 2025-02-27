@@ -1,0 +1,7 @@
+name: KoyaLoading
+version: '1.0.2'
+main: ir.alireza009.koyaLoading.KoyaLoading
+api-version: '1.13'
+prefix: Koya
+authors: [ Alireza009 ]
+website: alireza009.ir

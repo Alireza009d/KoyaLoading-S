@@ -1,0 +1,28 @@
+#############################################
+#             KoyaLoading Config            #
+#   Developed with ❤️ by Koya Development   #
+#############################################
+
+# ⏳ Delay before loading starts after a player joins (in ticks)
+# 1 second = 20 ticks
+Delay: 40
+
+# 🔊 Sound settings for teleportation during loading
+Sound:
+  Enable: true  # Set to false to disable teleportation sound
+  Sound: "ENTITY_ENDERMAN_TELEPORT"  # Change this to any valid Minecraft sound
+  # List of available sounds:
+  # https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Sound.html
+
+# 🎨 Resource Pack settings
+Resource-pack:
+  Enable: false  # Enable if your server uses a resource pack
+
+# 📌 Saved player locations during loading
+# These locations are automatically managed by the plugin.
+Locations: {}
+
+
+
+
+
