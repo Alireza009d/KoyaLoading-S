@@ -2,6 +2,12 @@
 #             KoyaLoading Config            #
 #   Developed with ❤️ by Koya Development   #
 #############################################
+ConfigVersion: 9 # do not edit
+Check-For-Update: true
+
+# Permission required to bypass the loading screen.
+# If left empty (""), bypass will be disabled for everyone.
+Bypass-Permission: "KoyaLoading.Bypass"
 
 # ⏳ Delay before loading starts after a player joins (in ticks)
 # 1 second = 20 ticks

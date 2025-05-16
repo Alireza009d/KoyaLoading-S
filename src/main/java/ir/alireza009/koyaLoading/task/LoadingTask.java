@@ -56,7 +56,7 @@ public class LoadingTask {
                     return;
                 }
 
-                if ((time % 30) == 0) {
+                if ((time % 20) == 0) {
                     loadingLocation[0].add(0, -5, 0);
                     if (loadingLocation[0].getBlock().getType().isSolid()) loadingLocation[0] = getSafeLocation(loadingLocation[0]);
                     player.teleport(loadingLocation[0]);

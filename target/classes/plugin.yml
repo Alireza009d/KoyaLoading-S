@@ -1,5 +1,5 @@
 name: KoyaLoading
-version: '1.0.3'
+version: '1.1'
 main: ir.alireza009.koyaLoading.KoyaLoading
 api-version: '1.13'
 prefix: Koya

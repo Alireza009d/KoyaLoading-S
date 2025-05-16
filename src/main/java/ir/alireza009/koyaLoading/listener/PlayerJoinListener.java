@@ -3,6 +3,7 @@ package ir.alireza009.koyaLoading.listener;
 import ir.alireza009.koyaLoading.KoyaLoading;
 import ir.alireza009.koyaLoading.storage.Storage;
 import ir.alireza009.koyaLoading.task.LoadingTask;
+import ir.alireza009.koyaLoading.utils.Utils;
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.entity.Player;
@@ -16,6 +17,13 @@ public class PlayerJoinListener implements Listener {
     public void onResourcePackStatus(PlayerResourcePackStatusEvent event) {
         if (!KoyaLoading.getInstance().getConfig().getBoolean("Resource-pack.Enable")) return;
         Player player = event.getPlayer();
+        Utils.checkUpdate(player);
+        String permission = KoyaLoading.getInstance().getConfig().getString("Bypass-Permission", "");
+        if (!permission.isEmpty() && player.hasPermission(permission)) {
+            player.sendMessage(Utils.colorize("&8[&9KoyaLoading&8] &7You bypassed loading&7."));
+
+            return;
+        }
         PlayerResourcePackStatusEvent.Status status = event.getStatus();
 
         if (status.equals(PlayerResourcePackStatusEvent.Status.SUCCESSFULLY_LOADED) ||
@@ -41,6 +49,13 @@ public class PlayerJoinListener implements Listener {
     public void onJoin(PlayerJoinEvent event) {
         if (KoyaLoading.getInstance().getConfig().getBoolean("Resource-pack.Enable")) return;
         Player player = event.getPlayer();
+        Utils.checkUpdate(player);
+        String permission = KoyaLoading.getInstance().getConfig().getString("Bypass-Permission", "");
+        if (!permission.isEmpty() && player.hasPermission(permission)) {
+            player.sendMessage(Utils.colorize("&8[&9KoyaLoading&8] &7You bypassed loading&7."));
+
+            return;
+        }
         int delay = KoyaLoading.getInstance().getConfig().getInt("Delay");
         if (KoyaLoading.getInstance().getConfig().get("Locations." + player.getName()) == null) {
             Storage.getLocation().put(player.getUniqueId(), player.getLocation());
